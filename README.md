@@ -1,6 +1,6 @@
 #### "PAGE REPLACEMENT POLICIES SIMULATION"
 # Requirements:
-- C++ for compiling and running various page replacement
+- C++ for compiling and running various page replacement algorithm
 - Python3 for graph
 - Matplotlib library for graph
 - Install c++
@@ -57,6 +57,7 @@ Third line contain dirty Page Information
 #### Output
 - You see below result for individual page replacement algorithm.
 - For Example:
+
 			Number of frame in MM: 2
 			Number of pages: 13
 			Number of page hit: 2
