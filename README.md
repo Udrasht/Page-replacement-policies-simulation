@@ -57,7 +57,7 @@ Third line contain dirty Page Information
 #### Output
 - You see below result for individual page replacement algorithm.
 - For Example:
-	Number of frame in MM: 2
+	Number of frame in MM: 2\n
 	Number of pages: 13
 	Number of page hit: 2
 	Number of page fault: 11
