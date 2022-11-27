@@ -1,5 +1,5 @@
 ## "PAGE REPLACEMENT POLICIES SIMULATION"
-# Requirements:
+### Requirements:
 - C++ for compiling and running various page replacement algorithm
 - Python3 for graph
 - Matplotlib library for graph
@@ -16,7 +16,7 @@
 ```sh
 		$ python -m pip install -U matplotlib
 ```
-## Input Format
+### Input Format
 Each test case will be in three line
 First line contain number of frame
 Second line contain request page number stream.All the page number are space seperated
@@ -45,7 +45,7 @@ Third line contain dirty Page Information
 ###### NOTE: Input is given with input.txt file
 
 
-## How To Run
+### How To Run
 - open terminal and execute project.sh file
 - command
 ```sh
@@ -54,7 +54,7 @@ Third line contain dirty Page Information
 - With the help of project.sh all the page replacement c++ file run and produce output in txt files which is use in python as input to draw graph between pagefault ratio and frame number
 ###### NOTE: All the temporary files will created during the execution and delete after the execution.
 
-#### Output
+### Output
 - You see below result for individual page replacement algorithm.
 - For Example:
 
@@ -67,7 +67,7 @@ Third line contain dirty Page Information
 
 - Graph of individual page replacement algorithm between page fault ratio(y-axis) and number of frames(x-axis).
 
-# Team Name : Aos_project_1234
+## Team Name : Aos_project_1234
 ## Team Members :
 - Dishant Sharma (2022202019) 
 - Udrasht Pal (2022201020) 
