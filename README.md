@@ -1,4 +1,4 @@
-#### "PAGE REPLACEMENT POLICIES SIMULATION"
+## "PAGE REPLACEMENT POLICIES SIMULATION"
 # Requirements:
 - C++ for compiling and running various page replacement algorithm
 - Python3 for graph
