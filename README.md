@@ -65,11 +65,12 @@ Third line contain dirty Page Information
 			Page hit ratio : 0.153846
 			Page miss ratio: 0.846154
 
-- Graph of individual page replacement algorithm between page fault ratio(y-axis) and number of frames(x-axis).
+- Graph1 show individual page replacement algorithm between page fault ratio(y-axis) and number of frames(x-axis).
+- Graph2 show individual page replacement algorithm between page hit ratio(y-axis) and number of frames(x-axis).
 
 ## Team Name : Aos_project_1234
 ## Team Members :
 - Dishant Sharma (2022202019) 
 - Udrasht Pal (2022201020) 
-- Jugnu Gil (2022201011)  
-- Vikram Raj Baksh(2022201044)
+- Jugnu Gill (2022201011)  
+- Vikram Raj Bakshi (2022201044)
