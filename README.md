@@ -67,7 +67,8 @@ Third line contain dirty Page Information
 
 - Graph1 show individual page replacement algorithm between page fault ratio(y-axis) and number of frames(x-axis).
 - Graph2 show individual page replacement algorithm between page hit ratio(y-axis) and number of frames(x-axis).
-
+  
+Look at [Report](./AOS_Project_Report.pdf) to understand logic and working.
 ## Team Name : Aos_project_1234
 ## Team Members :
 - Dishant Sharma (2022202019) 
